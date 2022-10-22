@@ -1,5 +1,5 @@
 # Swords-Game
-### This is an implementation of the game Swords, a two-player game traditionally played with hands. This implementation is single-player, incorporating an AI opponent. 
+### This is an implementation of the game Swords, a two-player game traditionally played with hands. This implementation is single-player, incorporating an AI opponent and played on the the command line. 
 
 ## Rules of the Game:
 Each player starts with one sword in each hand.
